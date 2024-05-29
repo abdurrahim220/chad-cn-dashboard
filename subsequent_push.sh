@@ -2,7 +2,7 @@
 
 # Variables
 REPO_PATH="/home/masuma/Desktop/practice/dashboard/"  # Path to your local repository location
-COMMIT_MESSAGE="sidebar complete"  # Commit message
+COMMIT_MESSAGE="chart with recharts complete"  # Commit message
 BRANCH="main"  # Branch name
 
 # Change to the repository directory

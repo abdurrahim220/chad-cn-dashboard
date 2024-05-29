@@ -28,7 +28,7 @@ export function Nav({ links, isCollapsed }: NavProps) {
   const usePath = usePathname();
   return (
     <TooltipProvider>
-      <div
+      <header
         data-collapsed={isCollapsed}
         className="group flex flex-col gap-4 py-2 data-[collapsed=true]:py-2"
       >
@@ -96,7 +96,7 @@ export function Nav({ links, isCollapsed }: NavProps) {
             )
           )}
         </nav>
-      </div>
+      </header>
     </TooltipProvider>
   );
 }
