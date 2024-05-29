@@ -2,7 +2,7 @@
 
 # Variables
 REPO_PATH="/home/masuma/Desktop/practice/dashboard/"  # Path to your local repository
-REMOTE_URL="https://github.com/abdurrahim220/socket.io-sms.git"  # Remote repository URL
+REMOTE_URL="https://github.com/abdurrahim220/chad-cn-dashboard"  # Remote repository URL
 COMMIT_MESSAGE="all components and chad cn ui added"  # Commit message
 BRANCH="main"  # Branch name
 
